@@ -2,7 +2,7 @@
 ## Unveiling the 5G Mid-Band Landscape: From Network Deployment to Performance and Application QoE
 
 In this repository, we release the dataset and artifacts of the conference paper 
-[Unveiling the 5G Mid-Band Landscape: From Network Deployment to Performance and Application QoE](https://github.umn.edu/fezeu001/5G-Mid-Band/blob/main/5G_EU_US_Configuration_Comparative_Study.pdf) published at [SIGCOMM 2024](https://conferences.sigcomm.org/sigcomm/2024/). 
+[Unveiling the 5G Mid-Band Landscape: From Network Deployment to Performance and Application QoE](https://github.com/SIGCOMM24-5GinMidBands/artifacts/blob/main/5G_EU_US_Configuration_Comparative_Study.pdf) published at [SIGCOMM 2024](https://conferences.sigcomm.org/sigcomm/2024/). 
 
 This is a measurement paper with various types of data processed for different purposes having different methodologies. In out GitHub,
 we group the artifacts by Section number and name. There are README files with each Section folder with more specific
