@@ -63,7 +63,7 @@ the raw results files in the repository. Artifacts and Info
 2. Run ``chmod +x setup-venv.sh``
 3. Run ``./setup-venv.sh``
 4. Run ``source /venv/bin/activate``
-5. Run ``pip install -r requirements.txt --break-system-packages``
+5. Run ``pip install -r requirements.txt``
 6. Navigate to each Section folder and follow the README file
 
 NOTE: \
